@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 
-/* test comment */
+/* test comment 
+hgjg
+jhlkhj*/
 package calculator;
 
 import java.util.Scanner;
