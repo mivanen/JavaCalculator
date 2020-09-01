@@ -14,6 +14,10 @@ import java.util.Scanner;
 /**
  *
  * @author pupil
+ * klj
+ * ojl;
+ * kjlk
+ * 
  */
 public class Calculator {
 
